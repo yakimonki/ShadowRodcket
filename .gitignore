@@ -1,0 +1,5 @@
+.DS_Store
+ProxyLogs/
+*.db
+shadowrocket.sync.plist
+shadowrocket.v2.model
